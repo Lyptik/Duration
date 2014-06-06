@@ -1,5 +1,7 @@
 # [Duration](http://duration.cc)
 
+Fork to send Artnet datas and synchronize duration as a slave timeline with Millumin
+
 ## Timeline for creative code 
 
 Duration controls change over time. With a simple one window approach, the cross platform stand alone application manages lists of tracks to compose changing data over a fixed duration.

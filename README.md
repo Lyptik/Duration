@@ -1,19 +1,22 @@
 # uArm Animation Toolkit
 
-This software is a fork from [Duration](http://duration.cc) to provide [uArm] (http://ufactory.cc/) robot an keyframe based animation toolkit.
+This software is a fork from [Duration](http://duration.cc) to provide [uArm] (http://ufactory.cc/) robot a keyframe based animation toolkit.
 
 ## setup
 
-Compile and upload sketch in arduino/ to your uArm
-Compile uArm-animation toolkit
+Compile and upload the uArmController sketch in the arduino/ folder to your uArm. Then run the uArm Animation Toolkit Software.
 
 ## mode Player
 
-Create an animation with the toolkit and play it through serial to uArm.
+Create an animation with the animation toolkit and play it through usb to your uArm.
 
 ## mode Recorder
 
-Create keyframe by moving uArm to the desired position. Record a frame by pressing one of the two buttons on the uduino.
+Move your uArm to a desired position. Record a frame by pressing one of the two buttons on the arduino.
+
+## mode Exporter
+
+Generate the animation code to load your Arduino with
 
 ## Duration doc (below)
 

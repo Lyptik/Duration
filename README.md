@@ -1,6 +1,21 @@
-# [Duration](http://duration.cc)
+# uArm Animation Toolkit
 
-Fork to send Artnet datas and synchronize duration as a slave timeline with Millumin
+This software is a fork from [Duration](http://duration.cc) to provide [uArm] (http://ufactory.cc/) robot an keyframe based animation toolkit.
+
+## setup
+
+Compile and upload sketch in arduino/ to your uArm
+Compile uArm-animation toolkit
+
+## mode Player
+
+Create an animation with the toolkit and play it through serial to uArm.
+
+## mode Recorder
+
+Create keyframe by moving uArm to the desired position. Record a frame by pressing one of the two buttons on the uduino.
+
+## Duration doc (below)
 
 ## Timeline for creative code 
 

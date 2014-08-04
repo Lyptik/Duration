@@ -18,6 +18,10 @@ Move your uArm to a desired position. Record a frame by pressing one of the two 
 
 Generate the animation code to load your Arduino with
 
+## Authors
+
+This tool is kindly provided by the folks behind [Théoriz studio](http://theoriz.com)
+
 ## Duration doc (below)
 
 ## Timeline for creative code 
